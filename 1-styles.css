@@ -257,8 +257,7 @@ a {
     display: none;
   }
   .what_we_do .icons {
-    display: grid;
-    grid-template-columns: 1fr;
+    display: flex
   }
 }
 main {
