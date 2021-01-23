@@ -226,7 +226,7 @@ a {
     white-space: nowrap;
   }
   .what_we_do .icons {
-    display: grid;
+    display: flex;
     grid-template-rows: 300px;
     grid-template-columns: repeat(2, 1fr);
   }
